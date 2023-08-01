@@ -1,0 +1,31 @@
+{
+  "name": "openui5-sap.ui.ux3",
+  "description": "OpenUI5 UI Library sap.ui.ux3",
+  "version": "1.28.11",
+  "license": "Apache-2.0",
+  "ignore": [],
+  "keywords": [
+    "openui5"
+  ],
+  "authors": [
+    "SAP SE <*@sap.com>"
+  ],
+  "homepage": "http://openui5.org",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SAP/openui5.git"
+  },
+  "dependencies": {
+    "openui5-sap.ui.core": "openui5/packaged-sap.ui.core#1.28.11",
+    "openui5-sap.ui.commons": "openui5/packaged-sap.ui.commons#1.28.11"
+  },
+  "_release": "1.28.11",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.28.11",
+    "commit": "d71ce81ccf629c53fa91c9e5ac1cde34d4554cd8"
+  },
+  "_source": "https://github.com/openui5/packaged-sap.ui.ux3.git",
+  "_target": "1.28.11",
+  "_originalSource": "openui5/packaged-sap.ui.ux3"
+}
